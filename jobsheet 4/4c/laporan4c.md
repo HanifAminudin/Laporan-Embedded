@@ -1,4 +1,4 @@
-![dashboard](https://github.com/HanifAminudin/Laporan-Embedded/assets/146454552/1f1be947-a205-4583-b204-a88b6a78d89c)![dashboard](https://github.com/HanifAminudin/Laporan-Embedded/assets/146454552/0f5ba605-d523-4323-90f2-d2a62033ed0f)<img width="506" alt="serial" src="https://github.com/HanifAminudin/Laporan-Embedded/assets/146454552/566fd109-03c5-4458-8a6c-6f23cfc8a12b"><img width="506" alt="serial" src="https://github.com/HanifAminudin/Laporan-Embedded/assets/146454552/2a9f39bb-6a52-46c9-ba67-ea6670aeb5f1"># C. Transmisi Data Menggunakan Protokol MQTT
+ C. Transmisi Data Menggunakan Protokol MQTT
 
 ### a. Rangkaian
 Rangkaian pada percobaan ini adalah sebagai berikut
