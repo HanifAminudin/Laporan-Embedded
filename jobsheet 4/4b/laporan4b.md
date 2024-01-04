@@ -20,19 +20,23 @@ Hasil percobaan dapat dilihat pada Serial Monitor Arduino, Debug Node-Red, dan j
 
 - Serial Monitor
   
-  ![serial](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/37b406dc-8481-4985-93a9-e03bb0801cec)
+  
+![serial](https://github.com/HanifAminudin/Laporan-Embedded/assets/146454552/0a6aa9da-08ce-440b-a35d-520caefde5f1)
 
 - Debug
+  ![debug](https://github.com/HanifAminudin/Laporan-Embedded/assets/146454552/e9ebfc92-7154-4d29-8c2e-b161e5649897)
+
   
-  ![debug](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/7cbc3094-808f-4644-9d45-1a86b8c8bb1d)
 
 - Dashboard
   
-  ![dashboard](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/c3e9955b-65db-4cac-9939-4f0f6fc6db7d)
+![dashboard](https://github.com/HanifAminudin/Laporan-Embedded/assets/146454552/249152b8-a15a-49bc-b2d4-aa4b4c286118)
+
 
 ### d. Flowchart
 
-![flow](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/33b622a6-0511-49e1-bb87-69b84b2d794c)
+
+![flow](https://github.com/HanifAminudin/Laporan-Embedded/assets/146454552/7957d701-2202-4f7b-a2c9-1c59ac39932e)
 
 
 ## 2. Metode POST
@@ -40,13 +44,13 @@ Hasil percobaan dapat dilihat pada Serial Monitor Arduino, Debug Node-Red, dan j
 ### a. Rangkaian
 Rangkaian pada percobaan ini adalah sebagai berikut
 
-![rangkaian](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/f56bbb5b-d7e8-4096-8fe4-532f7e4356a0)
+![note-red](https://github.com/HanifAminudin/Laporan-Embedded/assets/146454552/b1b9955c-aee5-4a45-bd67-ccd82bf53d07)
 
 Kode program json `Multi-Protocol IoT` dapat dilihat <a href="../program.json">di sini</a>
 
 ### b. Source Code
 
-Kode program dapat dilihat <a href="4b_http_post/4b_http_post.ino">di sini</a>
+Kode program dapat dilihat <a href="4b_http_post.ino">di sini</a>
 
 ### c. Hasil dan Pembahasan
 Pada bagian ini yang membedakan adalah metode protokol HTTP yang digunakan. Jika sebelumnya menggunakan metode GET, pada bagian ini menggunakan metode POST.
