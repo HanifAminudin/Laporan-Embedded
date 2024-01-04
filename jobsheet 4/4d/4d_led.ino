@@ -2,8 +2,8 @@
 #include <PubSubClient.h>
 #include <ArduinoJson.h>
 /* change it with your ssid-password */
-const char* ssid = "ROCHMAT";
-const char* password = "adibasyakila";
+const char* ssid = "5000 dulu";
+const char* password = "8Sembilankali";
 /* this is the IP of PC/raspberry where you installed MQTT Server
 on Wins use "ipconfig"
 on Linux use "ifconfig" to get its IP address */
