@@ -24,10 +24,10 @@ Hasil percobaan dapat dilihat pada Serial Monitor Arduino, Debug Node-Red, dan j
 ![serial](https://github.com/HanifAminudin/Laporan-Embedded/assets/146454552/0a6aa9da-08ce-440b-a35d-520caefde5f1)
 
 - Debug
+  
   ![debug](https://github.com/HanifAminudin/Laporan-Embedded/assets/146454552/e9ebfc92-7154-4d29-8c2e-b161e5649897)
 
   
-
 - Dashboard
   
 ![dashboard](https://github.com/HanifAminudin/Laporan-Embedded/assets/146454552/249152b8-a15a-49bc-b2d4-aa4b4c286118)
