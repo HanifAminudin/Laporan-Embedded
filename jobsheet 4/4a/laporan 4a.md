@@ -9,13 +9,14 @@ Rangkaian pada percobaan ini adalah sebagai berikut
 ### b. Source Code
 Kode program dapat dilihat <a href="4a_setting_ssid_pasword_melalui_web_server/4a_setting_ssid_pasword_melalui_web_server.ino">di sini</a>
 
-### c. Hasil dan Pembahasan
+### c. Hasil
 
-https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/cf784755-7e62-4bc9-8abf-1f1d5de4d702
+
+![hasil-1-1](https://github.com/HanifAminudin/Laporan-Embedded/assets/146454552/3dd7d0aa-3b87-4edb-b1a7-ddec129f0f6f)
 
 ESP menampilkan daftar SSID yang tersedia
 
-<img width="500px" src="https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/e4c0a3b6-c21a-47dc-98aa-ce0209048d61">
+![hasil-1-2](https://github.com/HanifAminudin/Laporan-Embedded/assets/146454552/0b5edba3-b49e-4432-9578-d4ae55e9d363)
 
 mengisikan SSID dan password pada browser
 
