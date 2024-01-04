@@ -1,8 +1,8 @@
 #include <HTTPClient.h>
-const char* ssid = "ROCHMAT";
-const char* password = "adibasyakila";
+const char* ssid = "5000 dulu";
+const char* password = "8Sembilankali";
 //sesuaikan dengan IP dan path masing-masing server
-String serverName = "http://192.168.1.7:1880/flood/node1";
+String serverName = "http://192.168.18.20:1880/flood/node1";
 unsigned long lastTime = 0;
 // Set timer to 5 seconds (5000)
 unsigned long timerDelay = 5000;
