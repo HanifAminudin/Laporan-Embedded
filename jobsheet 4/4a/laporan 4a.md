@@ -3,7 +3,8 @@
 ### a. Rangkaian
 Rangkaian pada percobaan ini adalah sebagai berikut
 
-![job3a](https://github.com/iamanisaamalia/sistemembedded/assets/147674408/a37af924-187d-41d9-8d78-a6316d5a189b)
+
+![rangkaian 32](https://github.com/HanifAminudin/Laporan-Embedded/assets/146454552/1f9893a8-c25d-45ff-bc57-59501992eaf2)
 
 
 ### b. Source Code
@@ -25,8 +26,7 @@ mengisikan SSID dan password pada browser
 
 Berhasil terhubung ke jaringan WiFi
 
-ESP akan menampilkan daftar SSID WiFi yang tersedia. Kemudian, masukkan IP Address yang ditampilkan pada serial monitor pada browser dan isikan SSID dan Password yang sesuai pada form yang
-disediakan. Hasil akhirnya adalah ESP akan terhubung pada jaringan tersebut, yaitu jaringan WiFi dengan SSID "alfingay" dengan menampilkan pesan "Connected to alfingay successfully".
+ESP akan menampilkan daftar SSID WiFi yang dapat diakses. Setelah itu, masukkan IP Address yang ditampilkan di serial monitor ke browser, dan isi formulir yang tersedia dengan SSID dan Password yang sesuai. Hasil akhirnya adalah ESP akan terkoneksi ke jaringan WiFi tersebut, yang memiliki SSID "alfingay", dan menampilkan pesan "Berhasil Terhubung ke alfingay".
 
 ### d. Flowchart
 ![flow](https://github.com/HanifAminudin/Laporan-Embedded/assets/146454552/b1b696a1-1ab3-4d45-b97c-5079ae79e458)
