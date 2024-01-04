@@ -1,4 +1,4 @@
-# C. Transmisi Data Menggunakan Protokol MQTT
+![dashboard](https://github.com/HanifAminudin/Laporan-Embedded/assets/146454552/1f1be947-a205-4583-b204-a88b6a78d89c)![dashboard](https://github.com/HanifAminudin/Laporan-Embedded/assets/146454552/0f5ba605-d523-4323-90f2-d2a62033ed0f)<img width="506" alt="serial" src="https://github.com/HanifAminudin/Laporan-Embedded/assets/146454552/566fd109-03c5-4458-8a6c-6f23cfc8a12b"><img width="506" alt="serial" src="https://github.com/HanifAminudin/Laporan-Embedded/assets/146454552/2a9f39bb-6a52-46c9-ba67-ea6670aeb5f1"># C. Transmisi Data Menggunakan Protokol MQTT
 
 ### a. Rangkaian
 Rangkaian pada percobaan ini adalah sebagai berikut
@@ -18,16 +18,18 @@ Setelah program berhasil diupload, data dummy seperti dev_id, level, rainfall, d
 
 - Serial Monitor
   
-  ![serial](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/102d82bf-cb0a-4fbd-818f-29d11005dd05)
+<img width="506" alt="serial" src="https://github.com/HanifAminudin/Laporan-Embedded/assets/146454552/7e9bd942-3f8c-4dd9-aa0f-c6468f1fa5a7">
+
 
 - Debug
 
-  ![debug](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/966b2de8-7be2-4be3-aec5-452bed3f0194)
+  ![debug](https://github.com/HanifAminudin/Laporan-Embedded/assets/146454552/bf3e0fa1-7ec9-42c0-b237-b3ba68715efc)
 
 - Dashboard
 
-  ![dashboard](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/bc9a91c8-33f4-4508-a8a4-6f6b409573c9)
+![dashboard](https://github.com/HanifAminudin/Laporan-Embedded/assets/146454552/9eb68deb-fdd9-402b-8f12-44ef1a66a746)
 
 ### d. Flowchart
 
-![flow](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/65e55323-406b-41c5-8620-128199eaa535)
+![flow](https://github.com/HanifAminudin/Laporan-Embedded/assets/146454552/8c49408e-f6d4-4213-84b0-fe2f866da46c)
+
