@@ -57,7 +57,7 @@ IO KEY dapat dilihat pada dasbor Adafruit yang bergambar kunci berwarna kuning. 
 
 - Serial Monitor
   
-  ![aio-serial-1](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/c82926fc-77f7-4373-998b-6a419d381fea)
+  
   
   ![aio-serial-2](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/f60b6a06-a94e-4554-9dfa-c38efe023df0)
 
