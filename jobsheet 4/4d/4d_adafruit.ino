@@ -2,8 +2,8 @@
 #include "Adafruit_MQTT.h"
 #include "Adafruit_MQTT_Client.h"
 
-#define WLAN_SSID "ROCHMAT"
-#define WLAN_PASS "adibasyakila"
+#define WLAN_SSID "5000 dulu"
+#define WLAN_PASS "8Sembilankali"
 #define AIO_SERVER "io.adafruit.com"
 #define AIO_SERVERPORT 1883
 #define AIO_USERNAME "hesoyam"
