@@ -3,8 +3,8 @@
 #include <ArduinoJson.h>
 
 // Update these with values suitable for your network.
-const char* ssid = "ROCHMAT";
-const char* password = "adibasyakila";
+const char* ssid = "5000 dulu";
+const char* password = "8Sembilankali";
 const char* mqtt_server = "broker.emqx.io";
 
 WiFiClient espClient;
