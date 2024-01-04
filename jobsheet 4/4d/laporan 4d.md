@@ -53,7 +53,7 @@ Rangkaian pada percobaan ini adalah sebagai berikut
 Kode program json `Multi-Protocol IoT` dapat dilihat <a href="../program.json">di sini</a>
 
 ### b. Source Code
-Kode program dapat dilihat <a href="4d_adafruit/4d_adafruit.ino">di sini</a>
+Kode program dapat dilihat <a href="4d_adafruit.ino">di sini</a>
 
 ### c. Hasil dan Pembahasan
 Pada bagian ini yang membedakan adalah pengaturan nyala LED diatur melalui dashboard Adafruit. Masuk ke website io.adafruit.com dan buat akun terlebih dahulu.
