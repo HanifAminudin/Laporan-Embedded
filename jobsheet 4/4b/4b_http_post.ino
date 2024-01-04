@@ -1,9 +1,9 @@
 #include <WiFi.h>
 #include <HTTPClient.h>
-const char* ssid = "ROCHMAT";
-const char* password = "adibasyakila";
+const char* ssid = "5000 dulu";
+const char* password = "8Sembilankali";
 //Your Domain name with URL path or IP address with path
-const char* serverName = "http://192.168.1.7:1880/flood/node1";
+const char* serverName = "http://192.168.18.20:1880/flood/node1";
 // the following variables are unsigned longs because the time, measured in
 // milliseconds, will quickly become a bigger number than can be stored in an int.
 unsigned long lastTime = 0;
