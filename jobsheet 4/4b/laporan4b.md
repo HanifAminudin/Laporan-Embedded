@@ -13,10 +13,10 @@ Kode program <a href="../program.json">di sini</a>
 Kode program dapat dilihat <a href="4b_http.ino">di sini</a>
 
 ### c. Hasil dan Pembahasan
-Pada percobaan ini, langkah pertama yang dilakukan adalah membuat database `banjir_db` dan diisi dengan tabel `smartwater`. Struktur dalam tabel mengikuti panduan jobsheet.
-Install terlebih dahulu node-red-dashboard pada bagian manage pallette kemudian import kode JSON Multi-Protocol IoT Server ke Node-Red untuk menampilkan flow rangkaian.
-Kemudian, install libraru JSON5 pada Arduino dan upload program protokol HTTP dengan metode GET. Setelah berhasil diupload, klik Deploy pada Node-Red.
-Hasil percobaan dapat dilihat pada Serial Monitor Arduino, Debug Node-Red, dan juga Dashboard Node-Red. Hasil akan terlihat seperti berikut.
+Dalam praktikum ini, tahap awal melibatkan pembuatan database `banjir_db` dan pengisian tabel `smartwater`, dengan struktur tabel mengikuti petunjuk pada lembar kerja praktikum.
+Langkah selanjutnya adalah menginstal node-red-dashboard melalui pengelola palet, dan kemudian mengimpor kode JSON Multi-Protocol IoT Server ke Node-Red untuk menampilkan aliran rangkaian.
+Setelah itu, lakukan instalasi perpustakaan JSON5 pada Arduino dan unggah program protokol HTTP dengan metode GET. Setelah berhasil diunggah, klik tombol Deploy pada Node-Red.
+Hasil eksperimen dapat diamati melalui Serial Monitor Arduino, Debug Node-Red, dan juga Dashboard Node-Red. Hasilnya akan terlihat seperti berikut.
 
 - Serial Monitor
   
