@@ -6,7 +6,7 @@
 Rangkaian pada percobaan ini adalah sebagai berikut
 ![note-red](https://github.com/HanifAminudin/Laporan-Embedded/assets/146454552/b1b9955c-aee5-4a45-bd67-ccd82bf53d07)
 
-Kode program <a href="jobsheet 4/program.json">di sini</a>
+Kode program <a href="../program.json">di sini</a>
 
 ### b. Source Code
 
