@@ -53,21 +53,22 @@ Kode program json `Multi-Protocol IoT` dapat dilihat <a href="../program.json">d
 Kode program dapat dilihat <a href="4b_http_post.ino">di sini</a>
 
 ### c. Hasil dan Pembahasan
-Pada bagian ini yang membedakan adalah metode protokol HTTP yang digunakan. Jika sebelumnya menggunakan metode GET, pada bagian ini menggunakan metode POST.
-Setelah program berhasil diupload, output yang ditampilkan adalah sebagai berikut.
+Pada bagian ini, perbedaannya terletak pada jenis metode protokol HTTP yang digunakan. Jika sebelumnya menggunakan metode GET, pada bagian ini beralih ke metode POST. Setelah berhasil mengunggah program, hasil keluaran yang ditampilkan adalah sebagai berikut.
 
 - Serial Monitor
   
-  ![post-serial](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/efd9f501-7e3d-45c4-a5f3-1557364b2177)
+  ![post-serial](https://github.com/HanifAminudin/Laporan-Embedded/assets/146454552/06d86444-81db-48e1-bdc1-d14dfdd52964)
   
 - Debug
   
-  ![post-debug](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/72b2bb96-d0a9-4c92-890c-e25f854f26b5)
+  
+![post-debug](https://github.com/HanifAminudin/Laporan-Embedded/assets/146454552/950fae6d-558c-4213-b93f-28291ca8dc7f)
 
 - Dashboard
   
-  ![post-dashboard](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/836f24ea-59c5-40e4-aa69-5c15bf3cbfce)
+  ![post-dashboard](https://github.com/HanifAminudin/Laporan-Embedded/assets/146454552/47157ab0-c0d5-497d-8f08-495c02fde986)
 
 ### d. Flowchart
 
-![post-flow](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/925c6292-663c-4292-aa8e-800e24f08647)
+![post-flow](https://github.com/HanifAminudin/Laporan-Embedded/assets/146454552/91025311-9a57-4724-8e87-37dd7b9417b0)
+
