@@ -19,7 +19,8 @@ ESP menampilkan daftar SSID yang tersedia
 
 mengisikan SSID dan password pada browser
 
-https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/cd7db532-7832-4d9f-87af-cd0b2dc47b64
+![hasil-1-3](https://github.com/HanifAminudin/Laporan-Embedded/assets/146454552/8c7ac88b-92c1-428b-a791-26c07e0f7ec0)
+
 
 Berhasil terhubung ke jaringan WiFi
 
@@ -27,5 +28,6 @@ ESP akan menampilkan daftar SSID WiFi yang tersedia. Kemudian, masukkan IP Addre
 disediakan. Hasil akhirnya adalah ESP akan terhubung pada jaringan tersebut, yaitu jaringan WiFi dengan SSID "alfingay" dengan menampilkan pesan "Connected to alfingay successfully".
 
 ### d. Flowchart
+![flow](https://github.com/HanifAminudin/Laporan-Embedded/assets/146454552/b1b696a1-1ab3-4d45-b97c-5079ae79e458)
 
-![flow](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/ebb3bb7b-3684-4e29-a075-c8693ebf5b84)
+
