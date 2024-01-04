@@ -5,7 +5,8 @@
 ### a. Rangkaian
 Rangkaian pada percobaan ini adalah sebagai berikut
 
-![rangkaian](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/f56bbb5b-d7e8-4096-8fe4-532f7e4356a0)
+
+![note-red](https://github.com/HanifAminudin/Laporan-Embedded/assets/146454552/c360f359-8631-4102-b926-8d0b5c842763)
 
 Kode program json `Multi-Protocol IoT` dapat dilihat <a href="../program.json">di sini</a>
 
@@ -17,32 +18,37 @@ Pada percobaan ini, masih sama seperti sebelumnya menggunakan protokol MQTT. Yan
 LED dihubungkan pada pin D2 yang kemudian dapat diatur nyala atau padam dengan mengubah tombol switch pada dashboard Node-Red.
 
 - Serial Monitor
-  
-  ![serial](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/6bffb285-ca2f-43c2-a135-814c256c91ed)
+ 
+
+![serial 4d](https://github.com/HanifAminudin/Laporan-Embedded/assets/146454552/ead3acfd-6637-4d54-a65d-d6464679bc6a)
+
 
 - Debug
   
-  ![debug](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/9d599d1c-3ff5-4c58-8590-59eef2139a42)
+  ![debug 4d](https://github.com/HanifAminudin/Laporan-Embedded/assets/146454552/6e456b0a-f7a4-41b6-bf0f-f187581ba30a)
 
 - Dashboard
   
-  ![dashboard](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/94364236-2560-40b6-91ef-95b12cf69c40)
+![dashboard 4d](https://github.com/HanifAminudin/Laporan-Embedded/assets/146454552/e9ee9cf7-d517-410b-827c-a9a545434553)
 
 - Hasil Percobaan
 
-  https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/934ad705-5ec6-466a-a56d-e907c2962165
+https://github.com/HanifAminudin/Laporan-Embedded/assets/146454552/44e1ae7c-1da2-4bed-b440-5f00bfa1c853
 
 ### d. Flowchart
 
-![flow](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/9c8e1c30-27cc-4db3-93d7-abb49d858954)
 
+
+
+
+![flow 4d](https://github.com/HanifAminudin/Laporan-Embedded/assets/146454552/5cc9985c-9065-467c-9732-93da2546af80)
 
 ## 2. Melalui Dashboard Adafruit.io
 
 ### a. Rangkaian
 Rangkaian pada percobaan ini adalah sebagai berikut
 
-![rangkaian](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/f56bbb5b-d7e8-4096-8fe4-532f7e4356a0)
+![note-red](https://github.com/HanifAminudin/Laporan-Embedded/assets/146454552/c360f359-8631-4102-b926-8d0b5c842763)
 
 Kode program json `Multi-Protocol IoT` dapat dilihat <a href="../program.json">di sini</a>
 
@@ -57,16 +63,21 @@ IO KEY dapat dilihat pada dasbor Adafruit yang bergambar kunci berwarna kuning. 
 
 - Serial Monitor
   
+    <img width="506" alt="aio-serial-1" src="https://github.com/HanifAminudin/Laporan-Embedded/assets/146454552/2175ad9b-7f19-403e-8f1f-249ad0d2cf2c">
   
-  
-  ![aio-serial-2](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/f60b6a06-a94e-4554-9dfa-c38efe023df0)
-
-
+ ![aio-serial-2 4d](https://github.com/HanifAminudin/Laporan-Embedded/assets/146454552/ec1ae3ed-d377-4d60-b3ec-dd340622263d)
 
 - Hasil Percobaan
   
-  https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/e52c84a5-9fe7-42ca-aae9-acdff57bfc79
+  before
+  
+<img width="272" alt="aio before " src="https://github.com/HanifAminudin/Laporan-Embedded/assets/146454552/db7abbc0-a735-4427-82aa-c8ec0615792e">
+
+  after
+
+ <img width="285" alt="aio after " src="https://github.com/HanifAminudin/Laporan-Embedded/assets/146454552/8bb0605c-9ce1-4168-b3e5-b9c07e3a4d70">
+
 
 ### d. Flowchart
 
-![aio-flow](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/7f974f8e-16d7-42b4-8c89-13cedbd38990)
+![aio-flow 4d](https://github.com/HanifAminudin/Laporan-Embedded/assets/146454552/573d7e46-667d-4a63-b33c-ca9165efb32a)
