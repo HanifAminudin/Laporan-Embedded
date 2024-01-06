@@ -4,9 +4,9 @@
 <p align="center">
   <img src="https://en.polines.ac.id/images/logo_bw.jpg" width="200" height="200">
 <br>
-<br>PUTRI SEKAR ARIANA
+<br>HANIF AMINUDIN
 <br>TE-3A
-<br>4.31.21.0.21</p>
+<br>4.31.21.0.14</p>
 <br>
 <b><p align="center">PROGRAM STUDI D4 TEKNIK TELEKOMUNIKASI</p>
 <p style="font-family:courier;" align="center">POLITEKNIK NEGERI SEMARANG</p>
